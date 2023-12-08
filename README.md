@@ -1,0 +1,2 @@
+# simulacion-de-chat-con-cifrado-rsa
+Simulación de un chat en la que se pueden enviar mensajes desde un chat emisor hacia otro chat receptor. Se incluye una API para facilitar la comunicación entre estos dos chats. Cada mensaje enviado se presenta como un archivo de texto completamente cifrado, garantizando así una comunicación segura entre ambos chats. Este sistema utiliza la biblioteca de criptografía de Python para implementar el cifrado.
